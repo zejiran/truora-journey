@@ -1,5 +1,5 @@
-public class Cyfvig {
+public class Clcwbp {
     public static void main() {
-        System.out.println("xsras");
+        System.out.println("xwoki");
     }
 }
