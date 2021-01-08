@@ -1,5 +1,5 @@
-public class Crvyte {
+public class Cwlfoe {
     public static void main() {
-        System.out.println("ttper");
+        System.out.println("uloqj");
     }
 }
