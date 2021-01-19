@@ -1,5 +1,5 @@
-public class Cswhmh {
+public class Cgpenv {
     public static void main() {
-        System.out.println("faful");
+        System.out.println("whkbt");
     }
 }
