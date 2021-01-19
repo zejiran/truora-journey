@@ -1,5 +1,5 @@
-public class Cgpenv {
+public class Cqbiid {
     public static void main() {
-        System.out.println("whkbt");
+        System.out.println("lxswq");
     }
 }
