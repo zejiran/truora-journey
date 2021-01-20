@@ -1,5 +1,5 @@
-public class Cqbiid {
+public class Cuyuwh {
     public static void main() {
-        System.out.println("lxswq");
+        System.out.println("cxece");
     }
 }
