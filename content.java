@@ -1,5 +1,5 @@
-public class Cdymxg {
+public class Ctpfvc {
     public static void main() {
-        System.out.println("nmqvv");
+        System.out.println("cvnme");
     }
 }
