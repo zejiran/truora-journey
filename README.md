@@ -1,3 +1,6 @@
+# My Truora Journey
+Contributions from Bitbucket Truora repositories.
+
 **This is a mock repository.** 
 
 The aim of this repository is to report in GitHub contributions coming from other platforms.
